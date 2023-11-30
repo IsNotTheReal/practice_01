@@ -1,3 +1,5 @@
+# Author: Alexandre Mayo Esteiro
+
 def fibonacci(n):           #Funcion que xera a cadea de Fibonacci
     list_fibo = []          #Lista list_fibo vacía
     a = 0                   #Variable a cun valor inicial de 0
