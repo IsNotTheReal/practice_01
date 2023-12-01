@@ -27,9 +27,9 @@ In the development of this program, four software applications have been utilize
 - GitHub Desktop.
 <table border="0"; align="center">
   <tr>
-    <td><a href="https://code.visualstudio.com"><img src="images/readme/visual.png" alt="Image of Visual Studio Code's logo" width="200" height="200"></a></td>
-    <td><a href="https://www.python.org"><img src="images/readme/python.png" alt="Image of Python's logo" width="200" height="200"></a></td>
-    <td><a href="https://desktop.github.com"><img src="images/readme/github.png" alt="Image of GitHub's desktop app logo" width="200" height="200"></a></td>
+    <td><a href="https://code.visualstudio.com"><img src="images/readme/visual.png" alt="Image of Visual Studio Code's logo" width="150"></a></td>
+    <td><a href="https://www.python.org"><img src="images/readme/python.png" alt="Image of Python's logo" width="150"></a></td>
+    <td><a href="https://desktop.github.com"><img src="images/readme/github.png" alt="Image of GitHub's desktop app logo" width="150"></a></td>
   </tr>
 </table>
 
