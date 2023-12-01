@@ -1,5 +1,5 @@
 <h1 align="center">Fibonacci sequence</h1>
-<p align="center"><a href="https://en.wikipedia.org/wiki/Fibonacci_sequence"><img src="images/readme/fibonacci.jpg" alt="Image of Fibonacci"></a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Fibonacci_sequence"><img src="images/readme/fibonacci.jpg" alt="Image of Fibonacci" width="700"></a></p>
 <div align="center">
 <a href="https://github.com/IsNotTheReal/prueba-readme/stargazers"><img src="https://img.shields.io/github/stars/IsNotTheReal/practice_01" alt="Stars Badge"/></a>
 <a href="https://github.com/IsNotTheReal/prueba-readme/pulls"><img src="https://img.shields.io/github/issues-pr/IsNotTheReal/prueba-readme" alt="Pull Requests Badge"/></a>
